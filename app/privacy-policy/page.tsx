@@ -10,7 +10,7 @@ export default function PrivacyPolicy() {
       <div className="w-full ">
         <div className="mt-8 text-2xl font-large">Privacy Policy for our Games</div>
 
-        This Privacy Policy governs the manner in which meanme.com ("we", "us", "our") collects, uses, maintains and discloses information collected from users (each, a "User") of our titles ("Game") and related services.
+        This Privacy Policy governs the manner in which meanme.com (&quot;we&quot;, &quot;us&quot;, &quot;our&quot;) collects, uses, maintains and discloses information collected from users (each, a &quot;User&quot;) of our titles (&quot;Game&quot;) and related services.
 
         <div className="mt-8 text-xl font-medium">Personal Information Collection</div>
         We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users play our Game, register on our Game, and in connection with other activities, services, features or resources we make available on our Game. Users may be asked for, as appropriate, name, email address, and other relevant information. We will collect personal identification information from Users only if they voluntarily submit such information to us.
@@ -18,7 +18,7 @@ export default function PrivacyPolicy() {
         <div className="mt-8 text-xl font-medium">
         Non-Personal Information Collection
         </div>
-        We may collect non-personal identification information about Users whenever they interact with our Game. Non-personal identification information may include the device type, device identifier, and other technical information about Users' means of connection to our Game, such as the operating system and the Internet service providers utilized and other similar information.
+        We may collect non-personal identification information about Users whenever they interact with our Game. Non-personal identification information may include the device type, device identifier, and other technical information about Users&apos; means of connection to our Game, such as the operating system and the Internet service providers utilized and other similar information.
         
         <div className="mt-8 text-xl font-medium">
         Unity Analytics Integration
