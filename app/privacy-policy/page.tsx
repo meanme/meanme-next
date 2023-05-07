@@ -81,7 +81,7 @@ Contacting Us
 </div>
 
 
-If you have any questions about this Privacy Policy, please contact us at matteo@meanme.com.
+If you have any questions about this Privacy Policy, please contact us at dropeffect@proton.me
 
       </div>
       <div>
